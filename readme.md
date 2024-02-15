@@ -1,7 +1,4 @@
-# Stable Cascade
-<p align="center">
-    <img src="figures/collage_1.jpg" width="800">
-</p>
+
 
 This is the official codebase for **Stable Cascade**. We provide training & inference scripts, as well as a variety of different models you can use.
 <br><br>
